@@ -1,3 +1,4 @@
+[Discussion Post (created on 11/11/2021 at 13:29)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/1622749/Binary-Search-(Faster-than-100-of-Online-Submissions))  
 <h2>34. Find First and Last Position of Element in Sorted Array</h2><h3>Medium</h3><hr><div><p>Given an array of integers <code>nums</code> sorted in non-decreasing order, find the starting and ending position of a given <code>target</code> value.</p>
 
 <p>If <code>target</code> is not found in the array, return <code>[-1, -1]</code>.</p>
