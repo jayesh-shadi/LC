@@ -6,11 +6,14 @@ class Solution {
         {
             if(map.containsKey(target-nums[i]))
             {
-                result[1]=i;
                 result[0]=map.get(target-nums[i]);
-                return result;
+                result[1]=i;
             }
-            map.put(nums[i],i);
+            else
+            {
+                map.put(nums[i],i);
+            }
+            
         }
         return result;
     }
