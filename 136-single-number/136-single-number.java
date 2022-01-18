@@ -1,20 +1,18 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        HashSet<Integer> set=new HashSet<>();
-        for(int i:nums)
+        HashMap<Integer,Integer> map=new HashMap<>();
+     for(int i:nums)
+     {
+         map.put(i,map.getOrDefault(i,0)+1);
+     }
+        for(int key:map.keySet())
         {
-            if(set.contains(i))
+            if(map.get(key)==1)
             {
-                set.remove(i);
+                return key;
             }
-            else{
-                set.add(i);
-            }
+            
         }
-        for(int i:set)
-        {
-            return i;
-            }
         return -1;
     }
 }
