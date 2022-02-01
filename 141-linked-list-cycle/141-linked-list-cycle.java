@@ -9,6 +9,7 @@
  *     }
  * }
  */
+// o(1) space solution
 public class Solution {
     public boolean hasCycle(ListNode head) {
       if(head==null) return false;
