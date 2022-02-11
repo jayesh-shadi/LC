@@ -29,8 +29,9 @@ class Solution {
                   if(queue.peek().right != null) queue.offer(queue.peek().right);
                 sublist.add(queue.poll().val);
             }
-            ans.add(0,sublist);
+            ans.add(sublist);
         }
+        Collections.reverse(ans);
         return ans;
     }
 }
