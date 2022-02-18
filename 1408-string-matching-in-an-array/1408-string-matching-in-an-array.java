@@ -1,23 +1,11 @@
 class Solution {
     public List<String> stringMatching(String[] words) {
-        List<String> res=new ArrayList<>();
-      for(int i=0;i<words.length;i++)
-      {
-          for(int j=0;j<words.length;j++)
-          {
-              if(i!=j)
-              {
-                  if(words[j].contains(words[i]))
-                  {
-                      res.add(words[i]);
-                      break;
-                  }
-              }
-          }
-        
-          }
-        
-          return res;
+        String s=String.join(" ",words);
+        ArrayList<String> res=new ArrayList<>();
+        for(String word:words)
+        {
+            if(s.indexOf(word)!=s.lastIndexOf(word)) res.add(word);
         }
-    
+        return res;
+    }
 }
