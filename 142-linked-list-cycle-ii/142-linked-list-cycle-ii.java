@@ -1,42 +1,33 @@
-/**
- * Definition for singly-linked list.
- * class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) {
- *         val = x;
- *         next = null;
- *     }
- * }
- */
 public class Solution {
-    public ListNode detectCycle(ListNode head) {
-        Boolean iscycle=false;
-        ListNode slow=head;
-        ListNode fast=head;
-        while(fast!=null && fast.next!=null)
+    public ListNode detectCycle(ListNode head) 
+    {
+        if(head == null||head.next == null) return null;
+        ListNode fast = head;
+        ListNode slow = head;
+        ListNode temp = head;
+        
+        int flag=0;
+        while(fast.next!=null && fast.next.next!=null)//---(i)
         {
-            slow=slow.next;
-            fast=fast.next.next;
+            fast = fast.next.next;
+            slow = slow.next;
             if(slow==fast)
             {
-                iscycle=true;
+                flag=1;
                 break;
             }
         }
-          if(iscycle==false)
-          {
-               return null;
-          }
-           
-        ListNode temp = head;
+        if(flag==0)
+            return null;
         
-        while(temp!=slow)
+        while(slow!=temp)
         {
-            temp=temp.next;
-            slow=slow.next;
-            
+            slow = slow.next;
+            temp = temp.next;
         }
         return temp;
     }
 }
+/*(i) fast.next!=null is for checking in even length list 
+& fast.next.next!=null is for checking in odd length list
+in any case if one of them is false , the loop will break , courtesy of && operator*/
