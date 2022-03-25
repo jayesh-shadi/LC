@@ -1,13 +1,25 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
   
-      boolean flag = false;
-    for(int i =0; i<matrix.length; i++){
-        for(int j = 0; j<matrix[0].length; j++){
-            if(matrix[i][j] == target) flag = true;
+   int i = 0;
+    int j = matrix[0].length - 1; //Top right corner
+    boolean flag = false;
+    
+    // if element > i, i will increase and if element is smaller than j, j will decrease
+    while(i < matrix.length && j >= 0){
+        if(target == matrix[i][j]){
+            flag = true;
+            break;
+        }
+        else if(target < matrix[i][j]){
+            j--;
+        }
+        else{
+            i++;
         }
     }
     
     return flag;
+    
     }
 }
