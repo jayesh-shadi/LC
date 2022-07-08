@@ -1,25 +1,19 @@
 class Solution {
-    public int[] productExceptSelf(int[] nums) { //eg 1 2 3 4 
-        // the idea is 1* 
-      int  N=nums.length;
-        int[] leftprod=new int[N];
-        int[] rightprod=new int[N];
-        int[] outputArray=new int[N];
-        
-        leftprod[0]=1;
-        rightprod[N-1]=1;
-        for(int i=1;i<N;i++)
-        {
-            leftprod[i]=nums[i-1]*leftprod[i-1];
-        }
-        for(int i=N-2;i>=0;i--)
-        {
-            rightprod[i]=nums[i+1]*rightprod[i+1];
-        }
-        for(int i=0;i<N;i++)
-        {
-            outputArray[i]=leftprod[i]*rightprod[i];
-        }
-        return outputArray;
+   public int[] productExceptSelf(int[] nums) {
+	int n = nums.length;
+	int[] product = new int[n];
+	// first calcuate the right product
+	product[n-1] = 1;
+	for (int i=n-1; i>0; i--)
+		product[i-1] = product[i] * nums[i];
+	// calcuate the left product as we iterate over the array
+	// multipy it with right product calculated above
+	// store it in the same array
+	int left = 1;
+	for (int i=0; i<n; i++) {
+		product[i] = left * product[i];
+		left = left * nums[i];
+	}
+	return product;
 }
     }
