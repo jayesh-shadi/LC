@@ -14,8 +14,10 @@ class Solution {
                 a_pointer++;
                 continue;
             }
-            
-            b_pointer--;
+            else{
+                  b_pointer--;
+            }
+          
             
         }
         
