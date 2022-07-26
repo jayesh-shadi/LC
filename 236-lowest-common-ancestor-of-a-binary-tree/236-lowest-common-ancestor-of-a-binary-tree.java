@@ -9,24 +9,19 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(root==null || root==p || root==q) {
-            return root;}
+          // if none of the trees contains p and q
+        if (root == null) return null;
         
+        // if we find p or q, we return it
+        if (root == p || root == q) return root;
         
-        TreeNode left=lowestCommonAncestor(root.left,p,q);
-         TreeNode right=lowestCommonAncestor(root.right,p,q);
-         if(left == null){
-            return right;
-        }
-        else if(right==null)
-        {
-            return left;
-        }
-        else{
-              return root;
-        }
-       
+        TreeNode lca1 = lowestCommonAncestor(root.left, p, q);
+        TreeNode lca2 = lowestCommonAncestor(root.right, p, q);
         
-    
+        // if one of the subtrees contain p and other contains q
+        if (lca1 != null && lca2 != null) return root;
+        
+        // if one of the subtree contains both p and q
+        if (lca1 != null) return lca1; else return lca2;
     }
 }
