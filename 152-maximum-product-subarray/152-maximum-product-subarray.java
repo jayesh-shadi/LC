@@ -1,22 +1,18 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int ans=nums[0];
-        int ma=ans;
-        int mi=ans;
-        int n=nums.length;
-        for(int i=1;i<n;i++)
-        {
-            if(nums[i]<0)
-            {
-              int temp=ma;
-                ma=mi;
-                mi=temp;
-            }
-            ma=Math.max(nums[i],nums[i]*ma);
-            mi=Math.min(nums[i],nums[i]*mi);
-            ans=Math.max(ans,ma);
-        }
-      
-     return ans;   
+         int n = nums.length, curMax = nums[0], max = nums[0], curMin = nums[0];
+    
+    for(int i=1; i<n; i++){
+		/*
+		nums[i] * curMin -> because if current number is -ve and curMin is also -ve then 
+		mutiply both would be curMax*/
+        
+        int temp = curMax;
+        curMax = Math.max(nums[i], Math.max(nums[i]*curMax, nums[i]*curMin));
+        curMin = Math.min(nums[i], Math.min(nums[i]*temp, nums[i]*curMin));
+        max = Math.max(max, curMax);
+    }
+    
+    return max;
     }
 }
