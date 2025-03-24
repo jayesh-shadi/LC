@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/jayesh-shadi/LC/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayesh-shadi/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3430-count-days-without-meetings](https://github.com/jayesh-shadi/LC/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jayesh-shadi/LC/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jayesh-shadi/LC/tree/master/0015-3sum) |
+| [3430-count-days-without-meetings](https://github.com/jayesh-shadi/LC/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
 | ------- |
