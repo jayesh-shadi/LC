@@ -34,3 +34,7 @@ class Solution {
         return -1;
     }
 }
+
+//Time-Complexity 3 loops o(n)
+//so o(n)+o(n)+o(n) == o(n)
+//o(n) space as hashmap is used.
