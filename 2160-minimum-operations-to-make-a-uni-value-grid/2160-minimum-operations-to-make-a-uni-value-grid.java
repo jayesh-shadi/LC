@@ -31,3 +31,6 @@ class Solution {
         return operations;
     }
 }
+
+//Sorting → O(N log N) time complexity.
+//space complexity o(n) for storing elements.
