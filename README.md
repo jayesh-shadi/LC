@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/jayesh-shadi/LC/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayesh-shadi/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/jayesh-shadi/LC/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/jayesh-shadi/LC/tree/master/0287-find-the-duplicate-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayesh-shadi/LC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jayesh-shadi/LC/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jayesh-shadi/LC/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/jayesh-shadi/LC/tree/master/0217-contains-duplicate) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayesh-shadi/LC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jayesh-shadi/LC/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/jayesh-shadi/LC/tree/master/3430-count-days-without-meetings) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/jayesh-shadi/LC/tree/master/0217-contains-duplicate) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jayesh-shadi/LC/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Math
 |  |
