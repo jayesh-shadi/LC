@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/jayesh-shadi/LC/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayesh-shadi/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/jayesh-shadi/LC/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jayesh-shadi/LC/tree/master/0287-find-the-duplicate-number) |
 | [1894-merge-strings-alternately](https://github.com/jayesh-shadi/LC/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayesh-shadi/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/jayesh-shadi/LC/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jayesh-shadi/LC/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/jayesh-shadi/LC/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jayesh-shadi/LC/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayesh-shadi/LC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jayesh-shadi/LC/tree/master/2132-convert-1d-array-into-2d-array) |
