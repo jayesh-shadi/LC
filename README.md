@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jayesh-shadi/LC/tree/master/0020-valid-parentheses) |
+| [0974-reorder-data-in-log-files](https://github.com/jayesh-shadi/LC/tree/master/0974-reorder-data-in-log-files) |
 | [1078-remove-outermost-parentheses](https://github.com/jayesh-shadi/LC/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/jayesh-shadi/LC/tree/master/1894-merge-strings-alternately) |
 ## Array
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jayesh-shadi/LC/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jayesh-shadi/LC/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayesh-shadi/LC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0974-reorder-data-in-log-files](https://github.com/jayesh-shadi/LC/tree/master/0974-reorder-data-in-log-files) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jayesh-shadi/LC/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayesh-shadi/LC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jayesh-shadi/LC/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jayesh-shadi/LC/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/jayesh-shadi/LC/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jayesh-shadi/LC/tree/master/0268-missing-number) |
+| [0974-reorder-data-in-log-files](https://github.com/jayesh-shadi/LC/tree/master/0974-reorder-data-in-log-files) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayesh-shadi/LC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jayesh-shadi/LC/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/jayesh-shadi/LC/tree/master/3430-count-days-without-meetings) |
