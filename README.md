@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/jayesh-shadi/LC/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jayesh-shadi/LC/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/jayesh-shadi/LC/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayesh-shadi/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/jayesh-shadi/LC/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jayesh-shadi/LC/tree/master/0287-find-the-duplicate-number) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jayesh-shadi/LC/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/jayesh-shadi/LC/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/jayesh-shadi/LC/tree/master/0567-permutation-in-string) |
 | [0974-reorder-data-in-log-files](https://github.com/jayesh-shadi/LC/tree/master/0974-reorder-data-in-log-files) |
 | [0990-verifying-an-alien-dictionary](https://github.com/jayesh-shadi/LC/tree/master/0990-verifying-an-alien-dictionary) |
