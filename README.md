@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/jayesh-shadi/LC/tree/master/0974-reorder-data-in-log-files) |
 | [0990-verifying-an-alien-dictionary](https://github.com/jayesh-shadi/LC/tree/master/0990-verifying-an-alien-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/jayesh-shadi/LC/tree/master/1078-remove-outermost-parentheses) |
+| [1796-second-largest-digit-in-a-string](https://github.com/jayesh-shadi/LC/tree/master/1796-second-largest-digit-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/jayesh-shadi/LC/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jayesh-shadi/LC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/jayesh-shadi/LC/tree/master/0567-permutation-in-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/jayesh-shadi/LC/tree/master/0990-verifying-an-alien-dictionary) |
+| [1796-second-largest-digit-in-a-string](https://github.com/jayesh-shadi/LC/tree/master/1796-second-largest-digit-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jayesh-shadi/LC/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Math
 |  |
