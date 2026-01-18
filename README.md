@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayesh-shadi/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayesh-shadi/LC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayesh-shadi/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/jayesh-shadi/LC/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/jayesh-shadi/LC/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jayesh-shadi/LC/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/jayesh-shadi/LC/tree/master/0268-missing-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/jayesh-shadi/LC/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/jayesh-shadi/LC/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/jayesh-shadi/LC/tree/master/0279-perfect-squares) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayesh-shadi/LC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -164,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayesh-shadi/LC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jayesh-shadi/LC/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jayesh-shadi/LC/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
