@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/jayesh-shadi/LC/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/jayesh-shadi/LC/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jayesh-shadi/LC/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/jayesh-shadi/LC/tree/master/0279-perfect-squares) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayesh-shadi/LC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayesh-shadi/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayesh-shadi/LC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0279-perfect-squares](https://github.com/jayesh-shadi/LC/tree/master/0279-perfect-squares) |
 ## Greedy
 |  |
 | ------- |
