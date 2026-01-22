@@ -12,7 +12,11 @@ class Solution {
                 //return 0;
                 return 0;
             }
-            rev = rev*10+ld; //added digit in reverse
+            rev = rev*10+ld; //added digit in reverse 123
+            //ld 3
+            //0*10+3 =3
+            //3*10+2 from 12
+            //32*10+1 from 1
             num=num/10;
 
         }
